@@ -360,7 +360,3 @@ SQLite locks sometimes. Just wait a moment and try again. For high concurrency, 
 - FastAPI 0.104
 - SQLite
 - Docker & Docker Compose
-
-## License
-
-MIT
